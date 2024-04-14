@@ -1,9 +1,11 @@
 [
     {
+        "id": 1,
         "title": "Go to the mall",
         "isCompleted": false
     },
     {
+        "id": 2,
         "title": "Go to the gym",
         "isCompleted": true
     }
