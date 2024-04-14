@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "text": "Go to the mall",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "text": "Go to the gym",
+        "completed": true
+    }
+]
