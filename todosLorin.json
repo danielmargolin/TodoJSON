@@ -8,5 +8,10 @@
         "id": 2,
         "text": "Go to the gym",
         "completed": true
+    },
+    {
+        "id": 3,
+        "text": "Go to Zara",
+        "completed": true
     }
 ]
